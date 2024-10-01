@@ -1,8 +1,8 @@
 // java-simple-project
 @Library("jenkins-shared-libraries@main")
 
-def PROJECT_NAME = "chatbot-companion"
-def EMAIL_TO_NOTIFY = "reviewpro.pd@shijigroup.com"
+def PROJECT_NAME = "java-simple-project"
+def EMAIL_TO_NOTIFY = "tonibandal@gmail.com"
 def STOP_ON_FAILED_QG = false
 def TEST_CONTAINERS = true
 def JAVA_VERSION = 17  // Set the Java version dynamically (11 or 17)
