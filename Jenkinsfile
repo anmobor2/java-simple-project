@@ -1,5 +1,5 @@
 // java-simple-project
-@Library("jenkins-shared-libraries")
+@Library("jenkins-shared-library@main")
 
 def PROJECT_NAME = "java-simple-project"
 def EMAIL_TO_NOTIFY = "tonibandal@gmail.com"
