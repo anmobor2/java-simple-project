@@ -1,5 +1,5 @@
 // java-simple-project
-@Library("jenkins-shared-libraries@master")
+@Library("jenkins-shared-libraries@mmain")
 
 def PROJECT_NAME = "chatbot-companion"
 def EMAIL_TO_NOTIFY = "reviewpro.pd@shijigroup.com"
